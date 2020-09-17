@@ -1,5 +1,4 @@
 ﻿using System;
-using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
@@ -11,7 +10,6 @@ namespace Hangman2._0
 
         static void Main(string[] args)
         {
-
             string[] words = { "sinner", "heretic", "anarchist", "devil", "hell", "demon", "cucumber", "asparagus", "soy", "tofu", "orange", "banana" }; 
             bool keepPlaying = true;
             while (keepPlaying)
